@@ -1,2 +1,2 @@
 # Python
-Public repository of my python cpde
+Public repository of my python code
